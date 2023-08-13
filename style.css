@@ -1,0 +1,31 @@
+#yeonmi{
+    border-radius: 100px;
+    height: 600px;
+    width:600px;
+}
+#myNavbar{
+    font-size: 25px;
+    background-color: rgb(37, 141, 231);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: aliceblue;
+}
+body{
+    background-color: lightblue;
+}
+#desc{
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+#book{
+    height: 500px;
+    width:300px;
+}
+h1{
+    font-size: 100px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
