@@ -1,31 +1,44 @@
-#yeonmi{
+#yeonmi {
     border-radius: 100px;
     height: 600px;
-    width:600px;
+    width: 600px;
 }
-#myNavbar{
+
+#myNavbar {
     font-size: 25px;
     background-color: rgb(37, 141, 231);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
     color: aliceblue;
+    position: fixed;
+    top: 0;
+    width: 100%;
 }
-body{
+
+section {
+    padding-top: 45px;
+}
+
+body {
     background-color: lightblue;
 }
-#desc{
+
+#desc {
     font-size: 25px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-p{
+
+p {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 20px;
 }
-#book{
+
+#book {
     height: 500px;
-    width:300px;
+    width: 300px;
 }
-h1{
+
+h1 {
     font-size: 100px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-}
+}  
